@@ -1,0 +1,46 @@
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\App.g.i.cs
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\MainPage.g.i.cs
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.g.resources
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\ApplicationIcon.png
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Background.png
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.dll
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.pdb
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\AppManifest.xaml
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows_Phone_PushNotification.xap
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.dll
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.pdb
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\XapCacheFile.xml
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\App42_WINDOWS_API_1.5.dll
+c:\users\ideapad\documents\visual studio 2010\Projects\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\ApplicationIcon.png
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Background.png
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.dll
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.pdb
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\AppManifest.xaml
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Windows_Phone_PushNotification.xap
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\ResolveAssemblyReference.cache
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\App.g.i.cs
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\MainPage.g.i.cs
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.g.resources
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.dll
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.pdb
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\obj\Debug\XapCacheFile.xml
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\App42_WINDOWS_SDK_2.0.dll
+D:\GitProject\Windows-Phone-PushNotification\Windows-Phone-PushNotification\Bin\Debug\App42_WINDOWS_SDK_2.0.pdb
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\ApplicationIcon.png
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\Background.png
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.dll
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification.pdb
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\AppManifest.xaml
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\Windows-Phone-PushNotification_Debug_AnyCPU.xap
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\Bin\Debug\App42_WINDOWS_PHONE_SDK_2.4.dll
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\App.g.cs
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\MainPage.g.cs
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.g.resources
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.dll
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\Windows-Phone-PushNotification.pdb
+C:\Users\Vaibhav\Documents\Visual Studio 2013\Projects\Windows-Phone-PushNotification-master\Windows-Phone-PushNotification\obj\Debug\XapCacheFile.xml

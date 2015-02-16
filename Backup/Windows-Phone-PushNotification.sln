@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows-Phone-PushNotification", "Windows-Phone-PushNotification\Windows-Phone-PushNotification.csproj", "{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB3C89F-39F1-48FD-B472-8874FCD67E8C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
